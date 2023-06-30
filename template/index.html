@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murid yang terdaftar kursus</title>
+</head>
+<body>
+    <h2>Para Siswa</h2>
+    <a href="{{ url_for('halamantambahkursus') }}">tambah kursus</a>
+    <hr>
+    <h3>List Siswa</h3>
+    {% for text in all_text %}
+        <p> {{ text.nama }} </p>
+        <a href="/halamaneditkursus/{{text.no}}">Edit {{text.nama}}</a>
+        <form action="/halamanhapuskursus/{{text.no}}" method="post" onsubmit="return confirm('apa kamu yakin')">
+            <input type="submit" value="Hapus">
+        </form>
+    {% endfor %}
+</body>
+</html>
