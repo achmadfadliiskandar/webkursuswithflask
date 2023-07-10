@@ -10,3 +10,15 @@ Pada awalnya projek ini adalah tugas kelompok untuk MATKUL AP2B ini adalah proje
   <li>update(mengubah data)</li>
   <li>delete(menghapus data)</li>
 </ol>
+
+> #### MODEL/LIBRARY BAHAN YANG DIPAKAI
+>
+> - FLASK.
+> - POSTMAN.
+> - API
+> - JSON
+> - PYTHON
+> - PIP
+>
+>  *alat/bahan* yang dibuat untuk membuat studi kasus yaitu **Kursus**.
+
