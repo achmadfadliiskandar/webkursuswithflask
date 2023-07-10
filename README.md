@@ -19,6 +19,8 @@ Pada awalnya projek ini adalah tugas kelompok untuk MATKUL AP2B ini adalah proje
 > - JSON
 > - PYTHON
 > - PIP
+> - VS CODE
+> - MYSQL
 >
 >  *alat/bahan* yang dibuat untuk membuat studi kasus yaitu **Kursus**.
 
