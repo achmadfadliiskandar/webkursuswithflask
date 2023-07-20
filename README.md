@@ -24,3 +24,13 @@ Pada awalnya projek ini adalah tugas kelompok untuk MATKUL AP2B ini adalah proje
 >
 >  *alat/bahan* yang dibuat untuk membuat studi kasus yaitu **Kursus**.
 
+<h2>Arah Teknik</h2>
+
+* Mendapatkan repository ini caranya ada dibawah
+  > git clone 
+
+    I need to add another paragraph below the second list item.
+
+* And here's the third list item
+
+
