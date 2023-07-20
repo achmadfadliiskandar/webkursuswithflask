@@ -26,11 +26,11 @@ Pada awalnya projek ini adalah tugas kelompok untuk MATKUL AP2B ini adalah proje
 
 <h2>Arah Teknik</h2>
 
-* Mendapatkan repository ini caranya ada dibawah
-  > git clone 
+* Mendapatkan repository ini caranya ada dibawah :
+  > git clone https://github.com/achmadfadliiskandar/webkursuswithflask.git
 
-    I need to add another paragraph below the second list item.
+    Lalu Setelah di clone bisa cari filenya disimpan dimana ? menggunakan perintah ls/biasanya buat cmd linux/unix atau pun mac kalau windows menggunakan cd
 
-* And here's the third list item
+* setelah menemukan lokasi file ini yang di clone lalu jalankan menggunakan perintah python (cth python main.py) ataupun tanda run yang disediakan di code editornya lalu nanti muncul perintah http://127.0.0.1:5000/ untuk membuka file yang telah di compile oleh library ataupun framework flask A<em>sekian</em>
 
 
