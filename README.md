@@ -31,6 +31,8 @@ Pada awalnya projek ini adalah tugas kelompok untuk MATKUL AP2B ini adalah proje
 
     Lalu Setelah di clone bisa cari filenya disimpan dimana ? menggunakan perintah ls/biasanya buat cmd linux/unix atau pun mac kalau windows menggunakan cd
 
-* setelah menemukan lokasi file ini yang di clone lalu jalankan menggunakan perintah python (cth python main.py) ataupun tanda run yang disediakan di code editornya lalu nanti muncul perintah http://127.0.0.1:5000/ untuk membuka file yang telah di compile oleh library ataupun framework flask <em>sekian</em>
+* setelah menemukan lokasi file ini yang di clone lalu jalankan menggunakan perintah python (cth python main.py) ataupun tanda run yang disediakan di code editornya lalu nanti muncul perintah http://127.0.0.1:5000/ untuk membuka file yang telah di compile oleh library ataupun framework flask 
+
+* untuk menjalankan postman nya sama seperti perintah yang no 2/atau bagian kedua nah bedanya adalah anda bisa menggunakan postman dengan menggunakan url http://127.0.0.1:5000/datakursus untuk melihat semua data/isi dari data/tabel <em><Sekian/em>
 
 
