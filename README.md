@@ -27,7 +27,7 @@ Pada awalnya projek ini adalah tugas kelompok untuk MATKUL AP2B ini adalah proje
 <h2>Arah Teknik</h2>
 
 * Mendapatkan repository ini caranya ada dibawah :
-  > git clone https://github.com/achmadfadliiskandar/webkursuswithflask.git
+  > git clone <code>https://github.com/achmadfadliiskandar/webkursuswithflask.git</code>
 
     Lalu Setelah di clone bisa cari filenya disimpan dimana ? menggunakan perintah ls/biasanya buat cmd linux/unix atau pun mac kalau windows menggunakan cd
 
